@@ -1,2 +1,3 @@
 # Bakalauras
-Programa
+Čia yra pateiktas visas bakalauro darbo įrenginio projektas
+
